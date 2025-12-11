@@ -94,27 +94,3 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=nexuproz&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="170" />
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nexuproz&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </div>
-
----
-
-# 🧨 Animated Tech Banner (Professional)
-<div align="center">
-  <img src="assets/logos/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-# ⚡ Dynamic Badges (Premium Look)
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack-Architect-00eaff?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Expert-ff0055?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-Engineer-111827?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/FiveM-Developer-f59e0b?style=for-the-badge&logo=lua&logoColor=white" />
-</p>
-
----
-
-# 🌌 Final Upgrade (text that appears/disappears)
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00eaff&center=true&vCenter=true&width=650&lines=Creating+Ultra-Secure+Systems...;Building+Next-Gen+Architectures...;Optimizing+Everything...;Nexu+Proz+—+Where+Speed+Meets+Security." />
-</div>
