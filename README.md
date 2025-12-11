@@ -80,6 +80,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nexuproz&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexuproz&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=nexuproz&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nexuproz&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
+
